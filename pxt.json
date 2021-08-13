@@ -1,5 +1,6 @@
 {
-    "name": "MakeCode Challenge Template",
+    "name": "Arcade Makecode Challenge - Stefan",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -24,5 +25,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
